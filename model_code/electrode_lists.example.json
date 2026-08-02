@@ -1,0 +1,33 @@
+{
+  "classifier": {
+    "SA": {
+      "hg": {"45": []},
+      "b1": {"45": []}
+    },
+    "SI": {
+      "hg": {"45": []},
+      "b1": {"45": []}
+    }
+  },
+  "sig_half": {
+    "SA": {
+      "hg": {"45": []},
+      "b1": {"45": []}
+    },
+    "SI": {
+      "hg": {"45": []},
+      "b1": {"45": []}
+    }
+  },
+  "full_half": {
+    "full_elecs": [],
+    "half_elecs": []
+  },
+  "movement": {
+    "45": {
+      "high gamma": {"all_elecs": []},
+      "beta1": {"all_elecs": []},
+      "hgb1": {"all_elecs": []}
+    }
+  }
+}

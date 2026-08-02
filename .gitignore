@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/checkpoints/
+**/results/
+**/runs/
+
+# Keep public figure inputs in Git while excluding private or generated data.
+workspace/*
+!workspace/README.md
+!workspace/Source_Data.xlsx
+!workspace/elecs/
+!workspace/elecs/**
